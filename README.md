@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YunaAkaishi08.
-- 👀 I’m interested in Modding and games.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in Modding and some videogames.
+- 🌱 I’m currently learning C#, js and java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
