@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YunaAkaishi08.
+- 👋 Hi, I’m @Yunatexya.
 - 👀 I’m interested in Modding and some videogames.
 - 🌱 I’m currently learning C#, js and java.
 - 💞️ I’m looking to collaborate on ...
