@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Yunatexya.
+- 👋 Hi, I’m @yuna-akashi.
 - 👀 I’m interested in Modding and some videogames.
 - 🌱 I’m currently learning C#, js and java. And zh_cn,tw.
